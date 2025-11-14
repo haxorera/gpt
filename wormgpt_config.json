@@ -1,0 +1,6 @@
+{
+  "api_key": "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",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "google/gemini-2.5-flash",
+  "language": "English"
+}
